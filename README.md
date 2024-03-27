@@ -49,3 +49,10 @@ O Jaeger é uma plataforma de código aberto para rastreamento distribuído, per
 O OpenTelemetry é uma ferramenta poderosa para implementar a observabilidade em aplicativos .NET, fornecendo um padrão comum para coleta e emissão de dados de telemetria. Com seu uso, os desenvolvedores podem entender melhor o comportamento de seus sistemas em tempo real e tomar medidas proativas para melhorar seu desempenho e confiabilidade.
 
 O uso conjunto do Prometheus, Grafana e Jaeger proporciona uma solução abrangente para observabilidade em sistemas distribuídos. Essas ferramentas permitem monitorar o desempenho, identificar problemas e analisar tendências, facilitando a manutenção e otimização de aplicativos em ambientes complexos e em escala.
+
+Prints da execução: 
+![Captura de tela 2024-03-27 094759](https://github.com/Ra2861/Prometheus/assets/99209068/d9d999a4-946e-4c0d-b9a6-bbef09334645)
+
+\metricas
+
+![Captura de tela 2024-03-27 095228](https://github.com/Ra2861/Prometheus/assets/99209068/b3538233-d05e-4812-b771-6db7929e21a4)
